@@ -29,8 +29,7 @@ intro:
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to th visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our coffee to the visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -46,8 +45,7 @@ testimonials:
       The morning is the best time to reach me for planning and discussion assembly options for green building, thermal system design with water for passive greenhouse design is my big interest right now.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I love their stance on empowering farmers and transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
