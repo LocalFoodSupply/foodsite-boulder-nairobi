@@ -5,7 +5,7 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: How the Tiny Junkyard Works
 description: >-
-      Tiny Junkyard is a resource to help us share what we might have for projects and share labor and ideas in completing those projects well. 
+      Tiny Food is a resource to help us share food aquisition tasks. 
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -13,30 +13,21 @@ intro:
         We mentor young farmers to have a product ready for market, and assist them in managing their small business to success. Please check the food hub page for your area or start one. You can contact us directly for questions.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We support small, carefully curated selection of local food tastes and cooking suggestions for every experience level. Wfall in love with in our shop.
+        We support small farms & ocal food. We carefully curate a selection of seasonal local food items and cooking suggestions.
     - image: /img/illustrations/tutorials.svg
       text: >
         Love motivates us to work within our own communities. Th
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we detwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that good food has the power to bring community together.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot frewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We’re glad to pass knowledge to anyone seeking a healtier & more affordable food supply.
 main:
-  heading: Great coffee with no compromises
+  heading: Great food with no compromises
   description: >
-    We hold our coffee to the visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.
+    We seek food sources optimal for the plants, farmers and the local environment.
   - image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products/products-grid3.jpg
-  - image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
-  - image3:
     alt: Coffee beans
     image: /img/products/products-grid1.jpg
 testimonials:
