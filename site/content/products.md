@@ -30,13 +30,13 @@ main:
   heading: Great coffee with no compromises
   description: >
     We hold our coffee to the visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.
-  image1:
+  - image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
-  image2:
+  - image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products/products-grid2.jpg
-  image3:
+  - image3:
     alt: Coffee beans
     image: /img/products/products-grid1.jpg
 testimonials:
