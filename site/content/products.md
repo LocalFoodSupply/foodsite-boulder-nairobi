@@ -34,9 +34,7 @@ testimonials:
   - author: Greg Willson
     quote: >-
       The morning is the best time to reach me for planning and discussion assembly options for green building, thermal system design with water for passive greenhouse design is my big interest right now.
-  - author: Philipp Trommler
-    quote: >-
-      I love their stance on empowering farmers and transparency.
+
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
