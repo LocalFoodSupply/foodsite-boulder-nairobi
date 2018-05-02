@@ -8,7 +8,7 @@ description: >-
       Tiny Food is a resource to help us share food aquisition tasks. 
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
+    - image: /img/illustrations/tf4.svg
       text: >
         We mentor young farmers to have a product ready for market, and assist them in managing their small business to success. Please check the food hub page for your area or start one. You can contact us directly for questions.
     - image: /img/illustrations/coffee-gear.svg
