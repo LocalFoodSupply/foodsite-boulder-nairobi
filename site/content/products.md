@@ -1,11 +1,11 @@
 ---
-title: List your extra items for sale, community projects or trade.
+title:  Tiny Food is community project resource to help stimulate health awaress and local food trade.
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: How the Tiny Junkyard Works
+heading: Why Tiny Food Works
 description: >-
-      Tiny Food is a resource to help us share food aquisition tasks. 
+      Tiny Food is a resource to help us share food aquisition ( producton, selection, transport & preparation) tasks. 
 intro:
   blurbs:
     - image: /img/illustrations/tf4.svg
@@ -33,7 +33,7 @@ main:
 testimonials:
   - author: Greg Willson
     quote: >-
-      The morning is the best time to reach me for planning and discussion assembly options for green building, thermal system design with water for passive greenhouse design is my big interest right now.
+      The morning is the best time to reach me for planning and discussion.
 
 full_image: /img/products/products-full-width.jpg
 pricing:
